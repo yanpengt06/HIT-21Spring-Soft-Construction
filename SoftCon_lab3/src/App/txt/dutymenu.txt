@@ -1,0 +1,10 @@
+		Welcome to DutyRosterApp !
+			Menu
+		1. setDutyPeriod 		eg:2021-07-03~2021-07-21
+		2.inputEmployeeInf		name-position-telnum     input  into employee.txt 
+		3.manually distribute duty 	name 2021-07-03 2021-07-04
+		4.automatically distribute duty 	
+		5.showdutyDistribution   
+		6.check isFull
+		7.setDutyByTxt		modify the inf in test1.txt according to the explanation.
+		Please input your option    	Note: input 'q' to quit.

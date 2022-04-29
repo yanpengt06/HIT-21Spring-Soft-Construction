@@ -1,0 +1,8 @@
+			Welcome to ProcessScheduleApp !
+				Menu
+			1. input processes inf        	Please input into process.txt  format :  pid-pname-minExeTime-maxExeTime
+			2.simulate call the processes    adopting random strategy
+			3.simulate call the processes   adopting min prior strategy
+			4.show call result
+			Please input your option       Note : 'q'  to quit  
+			PS: if you want to see another strategy simulation, Please run it again. It can only simulate one strategy once.
